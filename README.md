@@ -18,3 +18,6 @@ Overall, chatbots are designed to facilitate communication between humans and co
 
 - [@AishwaryGathe](https://www.github.com/AishwaryGathe)
 
+## Logo
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rfdtjhfbuiwaj1k18jxc.jpeg)
