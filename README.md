@@ -14,7 +14,7 @@ Chatbots are utilized in a wide range of domains, including customer service, e-
 Overall, chatbots are designed to facilitate communication between humans and computers, making it easier and more convenient to interact with various services, obtain information, and perform tasks, all through a conversational interface.
 
 
-## Authors
+## Author
 
 - [@AishwaryGathe](https://www.github.com/AishwaryGathe)
 
